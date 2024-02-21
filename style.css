@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: rgb(202, 242, 255);
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px rgb(8, 0, 255);
+}
+#totalprice {
+  color: rgb(30, 0, 255);
+  font-size: 20px;
+}
+.items {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.plus {
+    background-color: #340f4a;
+    padding: 10PX;
+    color: rgb(255, 255, 255);
+}
+.min {
+    background-color: #5704aa;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.active {
+color:red;
+  }
